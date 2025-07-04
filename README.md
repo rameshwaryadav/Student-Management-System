@@ -39,7 +39,7 @@ This project is built using a modern and reliable tech stack:
 *(यहाँ अपने ऐप के 1-2 महत्वपूर्ण स्क्रीनशॉट डालें। जैसे 'All Students' टेबल और 'Add Student' फॉर्म का स्क्रीनशॉट।)*
 
 **Dashboard View:**
-![Dashboard Screenshot](image_dashboard.png)
+![Dashboard Screenshot](./screenshot/admission form.jpg)
 
 **Add Student Form:**
 ![Add Student Form Screenshot](image_form.png)
@@ -56,44 +56,7 @@ Follow these instructions to get the project up and running on your local machin
 -   Node.js & npm (if using React)
 -   Git
 
-### Installation & Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/rameshwaryadav/student.git
-    cd student
-    ```
-
-2.  **Setup the Backend:**
-    ```bash
-    cd backend
-    # Create a virtual environment (recommended)
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-    # Install dependencies
-    pip install -r requirements.txt
-
-    # Run the database migrations (if any)
-    # flask db upgrade
-
-    # Start the server
-    python main.py
-    ```
-    The backend server will now be running on `http://localhost:5000`.
-
-3.  **Setup the Frontend (in a new terminal):**
-    ```bash
-    cd frontend
-    # Install dependencies
-    npm install  # if using React
-
-    # Start the development server
-    npm start    # if using React
-    ```
-    The frontend will be accessible at `http://localhost:3000`.
-
----
+#
 
 ## 🏗️ API Endpoints
 
