@@ -66,8 +66,8 @@ The backend provides the following RESTful API endpoints:
 
 This project was crafted with passion by **Rameshwar Yadav**.
 
--   **GitHub:** [@rameshwaryadav](https://github.com/rameshwaryadav)
--   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/rameshwar-dev)
+-   **GitHub:** [GitHub](https://github.com/rameshwaryadav)
+-   **LinkedIn:** [LinkedIn](https://linkedin.com/in/rameshwar-dev)
 -   ### 📸 Application Screenshots
 
 **Main Dashboard - All Students List:**
