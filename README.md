@@ -78,4 +78,11 @@ This project was crafted with passion by **Rameshwar Yadav**.
 
 -   **GitHub:** [@rameshwaryadav](https://github.com/rameshwaryadav)
 -   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/rameshwar-dev)
+-   ### 📸 Application Screenshots
+
+**Main Dashboard - All Students List:**
+![Dashboard Screenshot](./screenshots/admission-form.jpg)
+
+**Add Student Form:**
+![Add Student Form](./screenshots/students-list.jpg)
 
