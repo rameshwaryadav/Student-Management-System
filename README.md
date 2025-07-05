@@ -81,7 +81,7 @@ This project was crafted with passion by **Rameshwar Yadav**.
 -   ### 📸 Application Screenshots
 
 **Main Dashboard - All Students List:**
-![Dashboard Screenshot](./screenshots/admission-form.jpg)
+![Dashboard Screenshot](./admission-form.jpg)
 
 **Add Student Form:**
 ![Add Student Form](./screenshots/students-list.jpg)
