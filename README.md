@@ -84,5 +84,5 @@ This project was crafted with passion by **Rameshwar Yadav**.
 ![Dashboard Screenshot](./admission-form.jpg)
 
 **Add Student Form:**
-![Add Student Form](./screenshots/students-list.jpg)
+![Add Student Form](./students-list.jpg)
 
