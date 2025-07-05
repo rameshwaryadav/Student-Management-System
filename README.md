@@ -34,17 +34,7 @@ This project is built using a modern and reliable tech stack:
 
 ---
 
-## 📸 Application Screenshots
 
-*(यहाँ अपने ऐप के 1-2 महत्वपूर्ण स्क्रीनशॉट डालें। जैसे 'All Students' टेबल और 'Add Student' फॉर्म का स्क्रीनशॉट।)*
-
-**Dashboard View:**
-![Dashboard Screenshot](./screenshot/admission form.jpg)
-
-**Add Student Form:**
-![Add Student Form Screenshot](image_form.png)
-
----
 
 ## 🚀 How to Set Up and Run Locally
 
